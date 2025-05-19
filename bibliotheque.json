@@ -1,0 +1,35 @@
+[
+    {
+        "ID": 2,
+        "Titre": "\tLa Bête à sa mère",
+        "Auteur": "DAVID GOUDREAULT",
+        "Année": 2025,
+        "Lu": false,
+        "Note": null
+    },
+    {
+        "ID": 3,
+        "Titre": "\tL'Étroit chemin entre les souhaits",
+        "Auteur": "PATRICK ROTHFUSS",
+        "Année": 2025,
+        "Lu": false,
+        "Note": null
+    },
+    {
+        "ID": 4,
+        "Titre": "Conte de fées",
+        "Auteur": "STEPHEN KING",
+        "Année": 2025,
+        "Lu": true,
+        "Note": 8.5,
+        "Commentaire": "Un conte magique qui m’a fait rêver"
+    },
+    {
+        "ID": 5,
+        "Titre": "la Psy",
+        "Auteur": "FREIDA MCFADDEN",
+        "Année": 2025,
+        "Lu": false,
+        "Note": null
+    }
+]
